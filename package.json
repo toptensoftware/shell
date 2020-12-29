@@ -8,7 +8,5 @@
   },
   "author": "Topten Software",
   "license": "Apache",
-  "dependencies": {
-    "prompt-sync": "^4.2.0"
-  }
+  "dependencies": {}
 }
