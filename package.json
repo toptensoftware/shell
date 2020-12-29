@@ -1,0 +1,14 @@
+{
+  "name": "@toptensoftware/shell",
+  "version": "0.1.0",
+  "description": "Shell scripting tools for Node",
+  "main": "shell.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Topten Software",
+  "license": "Apache",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
